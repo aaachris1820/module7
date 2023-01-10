@@ -45,7 +45,7 @@ h1 {
     height: 50px;
     border-radius: 50%;
     background-color:blue;
-    transition: transform 1s linear .39s;
+    transition: transform 3s ease-in-out .4s;
 }
 .container-cricket:hover .ball {
     transform: translate(900px);
